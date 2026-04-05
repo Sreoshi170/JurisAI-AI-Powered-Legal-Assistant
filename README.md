@@ -2,20 +2,6 @@
 
 # ⚖️🤖 JurisAI – AI-Powered Legal Assistant
 
-![Image](https://images.openai.com/static-rsc-4/T82FVq-WuZfGIpkBLm9-EWyWrM4jKoKhZ9oQOLIo5Oc5nUiDk1hAWdWPqs7EzsHcliKGszCK6jNdvutB6iPyNy9QmBPokYJmkotoGVRg3r2M5ddnirhYY3gKR9hQIj38wgczSDEQ6XrL8nMnjufRlocZn-MK-2Tm3NRM2OMEHZwcHlJ_AXrhq4kEc5lVcpUx?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/hJZpOhKqjSPP09AjvUt21-Ey8B-bCVs___WKAYofpHT_d9W3egQqFPhBkPXMuZbyONN4fZyQIlibfIo1Jog4PjbPN8gOfi0ZX0-gTOzPLCnu6yH3gOEsi98JeMVLyzbj8pbFeiCpSeuvFbX_irrckcWvhjDLn-ErZB9XfX8SOOR3-n28W2sB76cQB7IlEAwv?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/o0VzY0vlddHaxoys0tzbogniJ-qEEgmjkY7Vx0OrcncWU5OmmqGmyR86eMMVLL0n8_eKKA9chG66mav2-eFMZIOiutcejVcT_F5aY77XT9VMWeRyiLujyQ6tfaeddgG1YIsKYDBVzzfAjA9SXBultVBw2OaFZrRI2IznJfQSmfh8PSNUvDgWk6lmicHHpp0D?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ALmbaSJrYeEs0aHzJtUr4FaS2GK6tNbsv-7DVcyJmllv0Bg1Jf5Ppki9hFD6RsX7jfddZd9VSNe0PmImDBLM77hrqO3x3S4KdexwWlp_eGsWOmK5X9hAtcHX2KIJHw07Ubvz9jeFcOrImU4tZovjIxwGSpmXQMRLPIDzVh-DdOZwWZS58uL8tikJ2p2Npzum?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/KYCPF4D2GtPF5pYirTL01L0tdS7bfHMpsv26gyiQj8ROudvcnUxjX2Hn5DpKhoEDQdwfrM2f9QqAwq50u5MnVQKIjV_OCxZcP2bQKfLdGBV1SY5kjYp-N8wv8JhMf0sA-JHw6tw4YZFbmfkU-pR0_JLz8uA38xw5Y9oWahnArXF7wT7ejuqe-UxoQxWDpV22?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/iZzRxyzs6itmo1LoV2gBWFwpmaeYC1Vu0tMKde6G2wjUCPiZl89MAFyiwJp77LqWL6K6BXXQalH-bBtDMjKcONTCvm26tk5W2AxJmJoRtPshRFjAjqZsY15N6nsrjdO_XrqgAyiHqNVv2JyFmdkehiVpJV0WrEEYFp1DtmsZ00dA4VbGhLUcU4Ft-hnH9cUo?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/SRNyDcyrKXE4zDYaTxGrsvG_4Dh_rm9z1yGxC_1M0pu9QM4ZvXQqv1f6reFFqeH2Ejj_VWo6c9uS3H2MESmJhn6XTFF8Hh4TC4OAy9pTVvo_x5DXjlXKPc0OlKuwYM-QDe9xoodw63nJfgCP3QUqIq4QRxG7f--lF-gEq3Ba-N0h1_JzyxEGxug9oWz0nHlz?purpose=fullsize)
-
 🚀 **JurisAI** is a multilingual AI-powered legal chatbot designed to make legal information **accessible, interactive, and easy to understand**.
 It combines **AI, NLP, and modern web technologies** to deliver smart legal assistance in real-time.
 

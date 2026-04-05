@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "According to the Preamble, why is the recognition of human dignity important?"
+  },
+  {
+    "role": "assistant",
+    "content": "The recognition of human dignity is important as it is the foundation of freedom, justice, and peace in the world. It is considered inherent and equal for all members of the human family. This recognition is crucial for securing universal and effective observance of human rights. It promotes social progress, better standards of life, and larger freedom. Human dignity is a fundamental aspect of human rights and is essential for the well-being of individuals."
+  },
+  {
+    "role": "user",
+    "content": "अनुच्छेद 1 सभी मनुष्यों की प्रकृति के बारे में क्या कहता है?"
+  },
+  {
+    "role": "assistant",
+    "content": "अनुच्छेद 1 कहता है कि सभी मनुष्य स्वतंत्र और समान गरिमा और अधिकारों के साथ पैदा होते हैं। वे तर्क और विवेक से संपन्न हैं और एक दूसरे के प्रति भाईचारे की भावना में कार्य करना चाहिए।"
+  },
+  {
+    "role": "user",
+    "content": "ধারা ১০ অনুসারে, প্রতিটি ব্যক্তি কোন ধরণের শুনানির অধিকারী?"
+  },
+  {
+    "role": "assistant",
+    "content": "ধারা ১০ অনুসারে, প্রতিটি ব্যক্তি একটি ন্যায্য ও সর্বজনীন শুনানির অধিকারী, যা একটি স্বাধীন ও নিরপেক্ষ ট্রাইব্যুনাল দ্বারা অনুষ্ঠিত হয়। এটি তাদের অধিকার ও দায়িত্ব এবং তাদের বিরুদ্ধে ফৌজদারি অভিযোগ নির্ধারণের জন্য।"
+  },
+  {
+    "role": "user",
+    "content": "કલમ 23 માં વર્ણવેલ મુખ્ય મજૂર અધિકારો કયા છે?"
+  },
+  {
+    "role": "assistant",
+    "content": "કલમ 23 માં વર્ણવેલ મુખ્ય મજૂર અધિકારોમાં કામ કરવાનો અધિકાર, નોકરીની મફત પસંદગી, ન્યાયી અને અનુકૂળ કામની પરિસ્થિતિઓ, બેરોજગારી સામે સુરક્ષા, સમાન કામ માટે સમાન વેતન, ન્યાયી અને અનુકૂળ વેતન અને ટ્રેડ યુનિયનોમાં જોડાવાનો અધિકારનો સમાવેશ થાય છે."
+  }
+]

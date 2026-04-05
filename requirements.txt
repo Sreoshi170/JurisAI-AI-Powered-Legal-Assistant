@@ -11,3 +11,5 @@ sentence-transformers
 gtts
 pyttsx3
 pyaudio
+pypdf
+huggingface_hub
